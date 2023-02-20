@@ -1,4 +1,4 @@
-# HALL LEARNING  <img src="https://media.licdn.com/dms/image/C4D0BAQHcdY2-8i_eUw/company-logo_200_200/0/1551209013348?e=1684972800&v=beta&t=lnm6mQcDC9sB1CBel4lun59Kj4BJ-7d-JrWXmkcFEBI" alt="img" style="zoom:25%;" />
+# HALL LEARNING  <img src="https://media.licdn.com/dms/image/C4D0BAQHcdY2-8i_eUw/company-logo_200_200/0/1551209013348?e=1684972800&v=beta&t=lnm6mQcDC9sB1CBel4lun59Kj4BJ-7d-JrWXmkcFEBI" alt="img" style="zoom:20%;" />
 
 
 
@@ -39,5 +39,3 @@ Esse repositório tem a intenção de registrar o código fonte das atividades p
 
 
 
-
-[id]: 
