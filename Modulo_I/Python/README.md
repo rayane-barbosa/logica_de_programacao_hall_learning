@@ -2,7 +2,7 @@
 
 
 
-### Código fonte utilizando Portugol Studio<img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" alt="img" style="zoom:20%;" />
+### Código fonte utilizando Python  <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="img" style="zoom:2.5%;" />
 
 
 
