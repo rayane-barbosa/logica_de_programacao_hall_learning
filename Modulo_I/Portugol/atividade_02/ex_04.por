@@ -17,7 +17,7 @@ programa
 		
 			media = (nota1+nota2+nota3)/3
 
-			escreva("Aluno: ", aluno,"\nMedia final: ", media)
+			escreva("O aluno ", aluno, "tirou as seguintes notas: " , nota1," - ",  nota2 , " - ", nota3, " e a sua média foi ", media)
 			
 			
 	}
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 568; 
+ * @POSICAO-CURSOR = 641; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
